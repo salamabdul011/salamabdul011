@@ -1,4 +1,4 @@
-![logo](https://github.com/salamabdul011/salamabdul011/blob/main/python-banner.png)
+![logo](https://github.com/salamabdul011/salamabdul011/blob/main/python.png)
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
