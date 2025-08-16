@@ -1,5 +1,6 @@
+![logo](https://github.com/salamabdul011/salamabdul011/blob/main/python-banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
-<h3 align="center">A passionate Back end from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salamabdul011&label=Profile%20views&color=0e75b6&style=flat" alt="salamabdul011" /> </p>
 
